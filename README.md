@@ -26,7 +26,7 @@ when using multi screen, all screen will be recorded at once<br>
 Double click **RECORD_ENG.bat** to launch the program.<br>
 
 
-## 如何安裝與設定VB-CABLE How to install and setup VB-CABLE
+## 如何安裝與設定VB-CABLE 
 
 1. 解壓縮 `VBCABLE_Driver_Pack45.zip`
 2. 點兩下解壓縮出來的 `VBCABLE_Setup_x64.exe`
@@ -39,7 +39,7 @@ Double click **RECORD_ENG.bat** to launch the program.<br>
 8. 找到 `接聽` 頁籤，勾選 `聆聽此裝置`，並將下方「透過此裝置撥放」設定為第5步驟所記住的裝置名稱
 9. 確定所有修改，完成
 
-
+## How to install and setup VB-CABLE
 1. unzip `VBCABLE_Driver_Pack45.zip`
 2. navigate to the unzip folder, double-click `VBCABLE_Setup_x64.exe`
 3. click `Install` to install
