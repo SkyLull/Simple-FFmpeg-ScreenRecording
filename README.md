@@ -2,8 +2,8 @@
 SFSR 的設計前提是在電腦存取權被嚴重限制、無法安裝其他軟體的環境下（例如學校電腦），使不熟悉電腦使用的人可以進行螢幕錄影。<br>
 SFSR was designed to work under a low-permission environment (such as on a school computer) but still provides ease of use for people who are not very familiar with computer things.
 
-如果你仍有此需求，建議可以改用 [Captura](https://github.com/MathewSachin/Captura) ，該軟體在同一個限制前提下提供了更全面、更完整的功能，且有更簡單的操作介面及中文翻譯。<br>
-If you still have the demand to record under such conditions, I sincerely suggest you use [Captura](https://github.com/MathewSachin/Captura) instead, it provides better, cleaner UI and more complete functionality.
+如果你仍有此需求，建議可以改用 [Captura](https://github.com/MathewSachin/Captura/releases/download/v8.0.0/Captura-Portable.zip) ，該軟體在同一個限制前提下提供了更全面、更完整的功能，且有更簡單的操作介面及中文翻譯。<br>
+If you still have the demand to record under such conditions, I sincerely suggest you use [Captura](https://github.com/MathewSachin/Captura/releases/download/v8.0.0/Captura-Portable.zip) instead, it provides better, cleaner UI and more complete functionality.
 
 本repo將不再做任何更新，請勿提出issue，想要修復任何問題可以直接fork或發pull request<br>
 This repo will no longer be maintained or updated, do not raise any issue. If you can fix any problem, you're welcome to fork this project or file a pull request.<br>
