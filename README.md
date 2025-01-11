@@ -48,5 +48,5 @@ Double click **RECORD_ENG.bat** to launch the program.<br>
 6. find `CABLE Input`, right click, find the option `set as default playback device`, should look somthing like this picture except language diffrent.
 ![image](https://github.com/user-attachments/assets/8f6e64b7-e452-4c03-8fd5-ed61fd7b25cd)
 7. find `record` page, find `CABLE Output`, right click, Properties.
-8. find the second page, check `listen to this device`, change the "play back via this device" to the name I required you to remember.
+8. find the second page, check `listen to this device`, change the "play back via this device" to the name I required you to remember in the 5th step.
 9. confirm every modification, done.
