@@ -12,7 +12,7 @@ included ffmpeg is required, audio recording require VB-CABLE to be installed.<b
 
 ~~本體無法錄音<br>~~
 ~~this script cannot perform audio recording<br>~~
-1.7 版起含錄音功能，但僅限模式3、4，且需要安裝VB-CABLE並進行相關設定後方可使用。
+1.7 版起含錄音功能，但僅限模式3、4，且需要安裝VB-CABLE並進行相關設定後方可使用。<br>
 audio can be recoded starting ver 1.7, but requires installation and settings of VB-CABLE.
 
 使用雙螢幕時，將一同錄製兩個螢幕<br>
