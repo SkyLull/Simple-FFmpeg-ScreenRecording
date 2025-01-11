@@ -25,3 +25,28 @@ when using multi screen, all screen will be recorded at once<br>
 [Click this link](https://github.com/SkyLull/Simple-FFmpeg-ScreenRecording/archive/refs/heads/main.zip) to download it, unzip it and it's ready to go.
 Double click **RECORD_ENG.bat** to launch the program.<br>
 
+
+## 如何安裝與設定VB-CABLE How to install and setup VB-CABLE
+
+1. 解壓縮 `VBCABLE_Driver_Pack45.zip`
+2. 點兩下解壓縮出來的 `VBCABLE_Setup_x64.exe`
+3. 按 `Install` 以安裝
+4. 安裝完後點兩下隨附的 `sound_settings`
+5. 請記住目前的「預設裝置」的名字
+6. 找到 `CABLE Input`，右鍵選單，並按下 `設定成預設裝置`，完成後應顯示如右圖
+![image](https://github.com/user-attachments/assets/8f6e64b7-e452-4c03-8fd5-ed61fd7b25cd)
+7. 找到 `錄製` 頁籤，找到 `CABLE Output`，右鍵，內容
+8. 找到 `接聽` 頁籤，勾選 `聆聽此裝置`，並將下方「透過此裝置撥放」設定為第5步驟所記住的裝置名稱
+9. 確定所有修改，完成
+
+
+1. unzip `VBCABLE_Driver_Pack45.zip`
+2. navigate to the unzip folder, double-click `VBCABLE_Setup_x64.exe`
+3. click `Install` to install
+4. after successful installation, double-click attached `sound_settings`
+5. please remember the name of current "default playback device"
+6. find `CABLE Input`, right click, find the option `set as default playback device`, should look somthing like this picture except language diffrent.
+![image](https://github.com/user-attachments/assets/8f6e64b7-e452-4c03-8fd5-ed61fd7b25cd)
+7. find `record` page, find `CABLE Output`, right click, Properties.
+8. find the second page, check `listen to this device`, change the "play back via this device" to the name I required you to remember.
+9. confirm every modification, done.
